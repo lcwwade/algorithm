@@ -21,14 +21,6 @@ package com.zero.eazy;
  * <p>
  * 假设我们的环境只能存储得下 32 位的有符号整数，则其数值范围为 [−231,  231 − 1]。请根据这个假设，如果反转后整数溢出那么就返回 0。
  * <p>
- * 链接：https://leetcode-cn.com/problems/reverse-integer
- */
-
-/**
- * @author: zero
- * @description: []
- * @time: 2020-01-29
- * @version: []
  */
 public class No7IntegerReverse {
 
